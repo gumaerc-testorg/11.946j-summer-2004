@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Guidelines and instructions for group assignment.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-946j-beijing-urban-design-studio-summer-2004/c8d4f2a7be6e74d37020c189c4a14d84_assignment_2.pdf
+file: /media/courses/11-946j-beijing-urban-design-studio-summer-2004/c8d4f2a7be6e74d37020c189c4a14d84_assignment_2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: assignment_2.pdf
 uid: c8d4f2a7-be6e-74d3-7020-c189c4a14d84

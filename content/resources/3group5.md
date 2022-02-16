@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Slides for group presentation of Assignment 3.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-946j-beijing-urban-design-studio-summer-2004/b5f5917c6637d434bfafae1d1d25ae55_3group5.pdf
+file: /media/courses/11-946j-beijing-urban-design-studio-summer-2004/b5f5917c6637d434bfafae1d1d25ae55_3group5.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: 3group5.pdf
 uid: b5f5917c-6637-d434-bfaf-ae1d1d25ae55
