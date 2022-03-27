@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: cd7279c2-6d0a-0661-72b7-2440bc3325b3
 resourcetype: Document
 title: history.pdf
 uid: b3f30534-80f9-358c-b85a-fcf75ad2dac9

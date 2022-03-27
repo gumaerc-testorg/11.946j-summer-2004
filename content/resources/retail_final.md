@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: cd7279c2-6d0a-0661-72b7-2440bc3325b3
 resourcetype: Document
 title: retail_final.pdf
 uid: 4058fa26-0565-4a9b-2ab0-b169a0bc2e70

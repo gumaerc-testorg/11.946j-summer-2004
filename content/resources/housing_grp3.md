@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: cd7279c2-6d0a-0661-72b7-2440bc3325b3
 resourcetype: Document
 title: housing_grp3.pdf
 uid: 4f1230a8-2d56-9535-536c-9d8aebacb751
