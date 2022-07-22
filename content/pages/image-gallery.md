@@ -1,11 +1,14 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 title: Image Gallery
 uid: 686da1f6-a4ad-7f56-399e-3c89e219e3fe
 ---
 
 The studio spent five weeks in China, and these are images from that trip. All images are courtesy of Prof. Jan Wampler and used with permission.
-{{< image-gallery id="686da1f6-a4ad-7f56-399e-3c89e219e3fe_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/11-946j-beijing-urban-design-studio-summer-2004/" >}}
+{{< image-gallery id="686da1f6-a4ad-7f56-399e-3c89e219e3fe_nanogallery2" baseUrl="/courses/11-946j-beijing-urban-design-studio-summer-2004/" >}}
 {{< image-gallery-item href="b549973ef0804ad81a62ac9fb1735be5_01.jpg" data-ngdesc="" text="" >}}
 {{< image-gallery-item href="f33c734498fa110844937bf2dc226b9e_02.jpg" data-ngdesc="" text="" >}}
 {{< image-gallery-item href="a98727921b44f1575644a338d2d6bf55_03.jpg" data-ngdesc="" text="" >}}
