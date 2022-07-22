@@ -5,6 +5,7 @@ file: /courses/11-946j-beijing-urban-design-studio-summer-2004/ca59ae3d7a95b1c4b
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 3group1.pdf
 uid: ca59ae3d-7a95-b1c4-bb1c-cbd22f98d7fd
 ---
 Slides for group presentation of Assignment 3.
-

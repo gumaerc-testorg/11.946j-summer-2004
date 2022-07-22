@@ -5,6 +5,7 @@ file: /courses/11-946j-beijing-urban-design-studio-summer-2004/bddd0f397676e6385
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assignment_1.pdf
 uid: bddd0f39-7676-e638-5e64-202a69a1cacf
 ---
 Guidelines and instructions for group assignment.
-

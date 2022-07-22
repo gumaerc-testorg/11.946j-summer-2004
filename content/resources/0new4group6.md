@@ -5,6 +5,7 @@ file: /courses/11-946j-beijing-urban-design-studio-summer-2004/80fd61df33f5bc02a
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 0new4group6.pdf
 uid: 80fd61df-33f5-bc02-ad54-27a98c52446f
 ---
 Slides for the final group presentation.
-
