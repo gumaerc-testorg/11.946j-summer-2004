@@ -2,6 +2,7 @@
 content_type: resource
 description: Slides for group presentation of Assignment 2.
 file: /courses/11-946j-beijing-urban-design-studio-summer-2004/84b474c2e16d7c1ae5d09a68e6e8df52_2group3.pdf
+file_size: 1106197
 file_type: application/pdf
 learning_resource_types:
 - Projects

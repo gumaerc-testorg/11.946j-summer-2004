@@ -2,6 +2,7 @@
 content_type: resource
 description: Slides for the final group presentation.
 file: /courses/11-946j-beijing-urban-design-studio-summer-2004/b8c208aa73735781b5f00b5c7dfefc85_4group2.pdf
+file_size: 662749
 file_type: application/pdf
 learning_resource_types:
 - Projects
