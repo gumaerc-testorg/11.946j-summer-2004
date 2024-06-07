@@ -2,6 +2,7 @@
 content_type: resource
 description: Slides for group presentation of Assignment 1.
 file: /courses/11-946j-beijing-urban-design-studio-summer-2004/a9b3de75d4e879576a9d511a5c087fd1_circul_analys.pdf
+file_size: 2109311
 file_type: application/pdf
 learning_resource_types:
 - Projects

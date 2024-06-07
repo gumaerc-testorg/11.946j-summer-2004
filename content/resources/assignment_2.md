@@ -2,6 +2,7 @@
 content_type: resource
 description: Guidelines and instructions for group assignment.
 file: /courses/11-946j-beijing-urban-design-studio-summer-2004/c8d4f2a7be6e74d37020c189c4a14d84_assignment_2.pdf
+file_size: 27947
 file_type: application/pdf
 learning_resource_types:
 - Assignments
