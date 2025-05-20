@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Slides for group presentation of Assignment 3.
-file: /ol-ocw-studio-app/courses/11-946j-beijing-urban-design-studio-summer-2004/78a3eead38237752d522285c107df829_3group4.pdf
+file: /courses/11-946j-beijing-urban-design-studio-summer-2004/78a3eead38237752d522285c107df829_3group4.pdf
 file_size: 1061522
 file_type: application/pdf
 learning_resource_types:
